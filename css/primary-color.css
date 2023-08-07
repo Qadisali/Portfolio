@@ -1,0 +1,61 @@
+/* primary color  */
+.logo a::after {
+  border-top: 5px solid #43aa8b;
+  border-right: 5px solid #43aa8b;
+}
+.logo a::before {
+  border-bottom: 5px solid #43aa8b;
+  border-left: 5px solid #43aa8b;
+}
+.home-img::before {
+  border-top: 10px solid #43aa8b;
+  border-left: 10px solid #43aa8b;
+}
+.home-img::after {
+  border-bottom: 10px solid #43aa8b;
+  border-right: 10px solid #43aa8b;
+}
+
+.btn,
+.section-title::after,
+.section-title::before,
+.skills-bar,
+.education-dip-item i,
+.service-item-inner:hover .service-icon,
+.btn-toggle span {
+  background: #43aa8b;
+}
+.btn:hover {
+  background: transparent;
+  border: 1px solid #43aa8b;
+  color: #43aa8b;
+}
+nav .menu .nav-list li a:hover,
+nav .menu .nav-list li a.active,
+.home-info h2 span,
+.section-title span,
+.service-icon i,
+.project-domain-name,
+.project-name,
+.contact-item i,
+.contact-title,
+.stat-numbre,
+.testimonial-title,
+.profession,
+footer .name,
+h3.hello span,
+.typing {
+  color: #43aa8b;
+}
+.statistics .statistic-item,
+.info-img img,
+input:focus,
+textarea:focus,
+body.light_style input:focus,
+body.light_style textarea:focus {
+  border: 1px solid #43aa8b;
+}
+.education-title,
+.diploma-title {
+  border-bottom: 3px solid #43aa8b;
+}
