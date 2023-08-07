@@ -28,11 +28,10 @@ for (let i = 0; i < body_skin_length; i++) {
 let typed = new Typed(".typing", {
   strings: [
     "",
-    "Full Stack Developer",
-    "REACT JS DEVELOPER",
-    "PHP LARAVEL FULL STACK DEVELOPER",
-    "REST FULL, PWA APPS Developer",
-    "Project Consultant",
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "Vue.js",
   ],
   typeSpeed: 100,
   BackSpeed: 60,
